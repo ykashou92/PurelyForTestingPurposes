@@ -6,7 +6,7 @@
 - [x] Candidate table search function has a problem (Search working perfectly in clients tab), might be an encoding issue, testing locales.
 - [x] Come up with a `.bat` hack to end process on every native run. 
 
-## Development Log
+### Development Log
 
 - [x] Successfully run dashboard natively in Windows.
 - [x] Dashboard automatically downloads file when run ---> Dataset changes accordingly ---> Tables as well.
