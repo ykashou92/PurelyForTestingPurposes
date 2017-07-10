@@ -14,4 +14,5 @@
 - [x] Dashboard automatically downloads file when run ---> Dataset changes accordingly ---> Tables as well.
 - [x] Post secret Gist of `.bat` hack. 
 - [x] Test native install of dashboard on another laptop without an R installation.
+- [x] Figure out a way to connect to a remote MySQL database and extract data from it.
 - [ ] Port dummy data into MySQL database and hook the app to it.
