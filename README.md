@@ -6,7 +6,7 @@
 - [x] Candidate table search function has a problem (Search working perfectly in clients tab), might be an encoding issue, testing locales.
 - [x] Come up with a `.bat` hack to end process on every native run. 
 - [x] Include `pandoc-1.19.2.1-windows.msi` installer to fix pandoc error on native run.
-- [ ] Find a way to end process on program exit.
+- [ ] Might've found a way to end process on program exit, must test on native run.
 
 ### Development Log
 
